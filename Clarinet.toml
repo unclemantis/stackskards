@@ -1,0 +1,7 @@
+[project]
+name = "stackskards"
+requirements = []
+costs_version = 1
+[contracts.stackskards-core-v1]
+path = "contracts/stackskards-core-v1.clar"
+depends_on = []
